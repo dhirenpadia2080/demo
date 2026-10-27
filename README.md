@@ -1,2 +1,13 @@
 # demo
-demo
+- AWS IAM
+- AWS KMS
+- AWS CloudTrail
+- AWS GuardDuty
+- AWS Security Hub
+- Amazon S3 Security
+- Amazon VPC
+- Amazon EC2
+- AWS CloudWatch
+- Python
+- Linux
+- Networking Fundamentals
