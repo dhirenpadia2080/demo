@@ -1,5 +1,5 @@
 # Hi, I'm Dhiren Padia 
-Aspiring Cloud Security Analyst with a strong interest in AWS Cloud Security and Defensive Cybersecurity. I enjoy building hands-on security labs, learning cloud security best practices, and improving my skills through practical projects.
+Cloud Security Analyst with a strong interest in AWS Cloud Security and Defensive Cybersecurity. I enjoy building hands-on security labs, learning cloud security best practices, and improving my skills through practical projects.
 
 ## AWS Certified Security – Specialty
 
